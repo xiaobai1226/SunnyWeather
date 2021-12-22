@@ -11,7 +11,7 @@ class SunnyWeatherApplication : Application() {
         lateinit var context: Context
 
         // 填入获取的彩云天气令牌值
-        const val TOKEN = ""
+        const val TOKEN = "lnKbtghgufEiVlvO"
     }
 
     override fun onCreate() {
